@@ -18,7 +18,7 @@ header{
 }
 section{
     margin: 60px 0;
-
+ 
 }
 html{
     scroll-behavior: smooth;
@@ -148,13 +148,13 @@ input,textarea{
     background-blend-mode: multiply;
 }
 #card-1{
- background-image: url(../Meusite/imagens/wanda.jpg);
+ background-image: url(../imagens/wanda.jpg);
 }
 #card-2{
-  background-image: url(../Meusite/imagens/Dani.jpg);
+  background-image: url(../imagens/Dani.jpg);
 }
 #card-3{
- background-image: url(../Meusite/imagens/Merlin.jpg);
+ background-image: url(../imagens/Merlin.jpg);
 }
 /* Contato */
 .dados-pessoais{
